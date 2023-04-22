@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello I am on branch2
 =======
 Hello I am on branch1
@@ -7,3 +8,8 @@ Hello I am on branch1
 =======
 Hello I am on branch1
 >>>>>>> branch2
+=======
+
+Hello I am on branch1
+
+>>>>>>> 0d2d1f913059b1108e421ffd176ea548cfcb72fb
