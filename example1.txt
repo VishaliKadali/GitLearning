@@ -1,1 +1,1 @@
-Hi This is 1st example of git
+Hello I am on branch2
